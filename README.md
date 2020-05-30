@@ -1,4 +1,4 @@
-# Manuel de uso do Projeto New Minds School and Consult
+# Manual de uso do Projeto New Minds School and Consult
 
 ## Projeto do site da New Minds School and Consult
 
